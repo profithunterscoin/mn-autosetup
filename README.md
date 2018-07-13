@@ -3,7 +3,7 @@ PHC Masternode autosetup script
 
 Login to your VPS and execute:
 ```
-wget https://github.com/profithunterscoin/mn-autosetup/blob/master/phcmnautosetup.sh && chmod +x phcmnautosetup.sh
+wget https://raw.githubusercontent.com/profithunterscoin/mn-autosetup/master/phcmnautosetup.sh && chmod +x phcmnautosetup.sh
 ```
 Now to run the script:
 ```
