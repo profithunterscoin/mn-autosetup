@@ -344,7 +344,7 @@ function run_questionnaire() {
 	echo
 	echo
 	echo "     PLEASE REVIEW ANSWERS ABOVE   "
-	read -n1 -p "     Press any key to start installation of Ctrl+C to exit   "
+	read -n1 -p "     Press any key to start installation or Ctrl+C to exit   "
 
 }
 
