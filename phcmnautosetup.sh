@@ -22,7 +22,7 @@ P2PPORT="20060"                                                                 
 RPCPORT="20061"                                                                                         #RPC port number
 COLLAMOUNT="10000"                                                                                      #collateral amount
 TICKER="PHC"                                                                                          	#crypto ticker
-BLKCOUNTLINK="curl -s http://54.37.233.45/bc_api.php?request=getblockcount"								#link to explorer API to ger current network height
+BLKCOUNTLINK="http://54.37.233.45/bc_api.php?request=getblockcount"					#link to explorer API to ger current network height
 
 function print_welcome() {
 	echo ""
