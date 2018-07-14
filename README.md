@@ -17,7 +17,7 @@ So all steps console and error messages will be recorded to logfile. You can fol
 tail -f ~/phcmnsetup.log
 ```
 
-After script execution you can find the main status of spets execution if you filter logfile for rows containing '# '
+After script execution you can find the main status of steps execution if you filter logfile for rows containing '# '
 ```
 more ~/phcmnsetup.log | grep '# '
 ```
